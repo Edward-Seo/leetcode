@@ -2,6 +2,6 @@
 leetcode solutions
 
 
-| Title    | Difficulty |
-|----------|:----------:|
-|1. [Two Sum](https://leetcode.com/problems/two-sum/)|Medium      |
+|           No.            |           Title                                                |       Difficulty      |
+|:------------------------:|----------------------------------------------------------------|:---------------------:|
+|1                         |[Two Sum](https://leetcode.com/problems/two-sum/)               |   Medium              |
