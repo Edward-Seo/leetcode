@@ -1,2 +1,7 @@
 # leetcode
-Python Leetcode Solutions
+leetcode solutions
+
+
+| Title    | Difficulty |
+|----------|:----------:|
+|1. Two Sum|Medium      |
