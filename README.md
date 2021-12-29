@@ -11,4 +11,5 @@ leetcode solutions❗❗
 |005 |[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)    | Medium   | [Solution](/solutions/005_longestPalindromicSubstring.py) |
 |007 |[Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                | Medium   | [Solution](/solutions/007_reverseInteger.py)              |
 |009 |[Palindrome Number](https://leetcode.com/problems/palindrome-number/)                            | Easy     | [Solution](/solutions/009_palindromeNumber.py)            |
+|013 |[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                              | Easy     | [Solution](/solutions/008_romanToInteger.py)              |
 |020 |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                            | Easy     | [Solution](/solutions/020_validParentheses.py)            |
