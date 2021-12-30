@@ -1,4 +1,4 @@
-# leetcode problems
+# leetcode problems (Algorithms & Database)
 leetcode solutions❗❗
 
 
