@@ -41,6 +41,8 @@
 -- Explanation: Joe is the only employee who earns more than his manager.
 
 
+
+-- Solution
 SELECT a.name AS Employee
 FROM Employee AS a, Employee AS b
 WHERE a.salary > b.salary AND a.managerId=b.id
