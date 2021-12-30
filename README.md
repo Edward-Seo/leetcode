@@ -19,3 +19,4 @@
 |No. |           Title                                                                                 |Difficulty|    Solution                                               |
 |:--:|-------------------------------------------------------------------------------------------------|:--------:|:---------------------------------------------------------:|
 |175 |[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)                          | Easy     | [Solution](/Database/175_combineTwoTables.sql)            |
+|181 |[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)                          | Easy     | [Solution](/Database/181_employeesEarningMoreThanTheirManagers.sql)            |
