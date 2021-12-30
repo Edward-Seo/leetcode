@@ -20,3 +20,4 @@
 |:--:|-------------------------------------------------------------------------------------------------|:--------:|:---------------------------------------------------------:|
 |175 |[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)                          | Easy     | [Solution](/Database/175_combineTwoTables.sql)            |
 |181 |[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)                          | Easy     | [Solution](/Database/181_employeesEarningMoreThanTheirManagers.sql)            |
+|182 |[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)                              | Easy     | [Solution](/Database/182_duplicateEmails.sql)             |
