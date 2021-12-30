@@ -1,7 +1,7 @@
 # leetcode problems (Algorithms & Database)
-leetcode solutions❗❗
 
 
+## Algorithms
 |No. |           Title                                                                                 |Difficulty|    Solution                                               |
 |:--:|-------------------------------------------------------------------------------------------------|:--------:|:---------------------------------------------------------:|
 |001 |[Two Sum](https://leetcode.com/problems/two-sum/)                                                | Easy     | [Solution](/solutions/001_twoSum.py)                      |
@@ -14,3 +14,9 @@ leetcode solutions❗❗
 |009 |[Palindrome Number](https://leetcode.com/problems/palindrome-number/)                            | Easy     | [Solution](/solutions/009_palindromeNumber.py)            |
 |013 |[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                              | Easy     | [Solution](/solutions/008_romanToInteger.py)              |
 |020 |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                            | Easy     | [Solution](/solutions/020_validParentheses.py)            |
+
+
+## Database
+|No. |           Title                                                                                 |Difficulty|    Solution                                               |
+|:--:|-------------------------------------------------------------------------------------------------|:--------:|:---------------------------------------------------------:|
+|175 |[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)                          | Easy     | [Solution](/solutions/175_combineTwoTables.sql)           |
