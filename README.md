@@ -4,7 +4,7 @@
 ## Algorithms
 |No. |           Title                                                                                 |Difficulty|    Solution                                               |
 |:--:|-------------------------------------------------------------------------------------------------|:--------:|:---------------------------------------------------------:|
-|001 |[Two Sum](https://leetcode.com/problems/two-sum/)                                                | Easy     | [Solution](Solutions (Algorithms)/001_twoSum.py)                      |
+|001 |[Two Sum](https://leetcode.com/problems/two-sum/)                                                | Easy     | [Solution](/Solutions (Algorithms)/001_twoSum.py)                      |
 |002 |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                | Medium   | [Solution](/solutions/002_addTwoNumbers.py)               |
 |003 |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  |   Medium     | [Solution](/solutions/003_longestSubstringWithoutRepeatingCharacters.py)  |
 |004 |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)        | hard     | [Solution](/solutions/004_medianOfTwoSortedArrays.py)     |
@@ -14,7 +14,6 @@
 |009 |[Palindrome Number](https://leetcode.com/problems/palindrome-number/)                            | Easy     | [Solution](/solutions/009_palindromeNumber.py)            |
 |013 |[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                              | Easy     | [Solution](/solutions/008_romanToInteger.py)              |
 |020 |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                            | Easy     | [Solution](/solutions/020_validParentheses.py)            |
-Solutions (Algorithms)/001_twoSum.py
 
 ## Database
 |No. |           Title                                                                                 |Difficulty|    Solution                                               |
